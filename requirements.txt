@@ -1,0 +1,10 @@
+# Minimal Core Dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+finnhub-python>=2.4.0
+flask>=2.3.0
+flask-cors>=4.0.0
+ta>=0.10.2
+python-dotenv>=1.0.0
+requests>=2.31.0
+matplotlib>=3.7.0
